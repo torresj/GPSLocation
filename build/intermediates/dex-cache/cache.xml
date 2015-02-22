@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jaime\AndroidStudioProjects\GPSLocation\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\jaime\AndroidStudioProjects\GPSLocation\app\build\intermediates\pre-dexed\debug\classes-da492f62136de7bec3314e7e7a7c03d6140c9eec.jar" />
+    </item>
+    <item
+        jar="C:\Users\jaime\AndroidStudioProjects\GPSLocation\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\jaime\AndroidStudioProjects\GPSLocation\app\build\intermediates\pre-dexed\debug\classes-b4aaa41ed67e6626b4e8de6da0e09fa00fe73a44.jar" />
+    </item>
+    <item
+        jar="C:\Users\jaime\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\jaime\AndroidStudioProjects\GPSLocation\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2af1eebfdfb057af9bfadc2100d9ede259bf378a.jar" />
+    </item>
+    <item
+        jar="C:\Users\jaime\AndroidStudioProjects\GPSLocation\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\jaime\AndroidStudioProjects\GPSLocation\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c98c488cd27457fc16d32194b16863aa9dd503e1.jar" />
+    </item>
+
+</items>
